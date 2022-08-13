@@ -1,0 +1,7 @@
+baseURL = 'http://datamart.games/'
+languageCode = 'en-us'
+title = 'Datamart | datamart.games'
+theme = 'paper'
+
+[params]
+  github = 'datamartgames'

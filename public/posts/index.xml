@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Datamart | datamart.games</title>
+    <link>http://datamart.games/posts/</link>
+    <description>Recent content in Posts on Datamart | datamart.games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2022 20:42:50 -0400</lastBuildDate><atom:link href="http://datamart.games/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There</title>
+      <link>http://datamart.games/posts/hello-there/</link>
+      <pubDate>Fri, 12 Aug 2022 20:42:50 -0400</pubDate>
+      
+      <guid>http://datamart.games/posts/hello-there/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
