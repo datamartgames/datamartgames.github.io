@@ -1,4 +1,4 @@
-baseURL = 'http://datamart.games/'
+baseURL = 'https://datamartgames.github.io/'
 languageCode = 'en-us'
 title = 'Datamart | datamart.games'
 theme = 'paper'
